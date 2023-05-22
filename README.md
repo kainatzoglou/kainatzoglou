@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kainatzoglou
-- 😊 I am a quantitative analyst with experience in risk modelling and machine learning applications on risk management
-- 🌱 I get fascinated by the power of machine learning algorithms and their uses in solving business problems
+- 🌱 I am a quantitative analyst with experience in risk modelling and machine learning applications on risk management
+- ❤ I get fascinated by the power of machine learning algorithms and their uses in solving business problems
 - 👀 I am ready to collaborate towards any project related to Finance, Risk and Insurance
 - ✔ Languages: Python, R, Matlab, C
